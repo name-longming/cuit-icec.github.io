@@ -3,7 +3,7 @@ site_name: CUIT ICEC Wiki
 # Repository
 repo_name: 'cuit_icec/icec_wiki'
 repo_url: 'https://github.com/cuit-icec/cuit-icec.github.io'
-docs_dir: docs
+edit_uri: 'https://github.com/name-longming/cuit-icec.github.io/tree/main/docs'
 
 nav:
   - 简介:
